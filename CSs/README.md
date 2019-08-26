@@ -15,7 +15,7 @@ Each database (`Database1`,`Database2`) has its own schema associated with it.
 
 ## **Methods**
 Each schema contains a unique set of tables that analyze certain fields and data types of that specified database. Here, we can see the full schema for `Database1`.
-![DS Schema Screenshot](media/Safe_database_Screenshot.png)
+![Safe Database Screenshot](media/Safe_database_Screenshot.png)
 
 It is important to see the actual process the code takes in order to create these schemas. Note that schemas in relative subjects do not differ at all in the syntax; so creating a table schema for `Database2` follows the same format as the table for `Database1`.
 
